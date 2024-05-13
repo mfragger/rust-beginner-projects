@@ -1,0 +1,10 @@
+pub mod randomfunctions;
+pub mod guessinggame;
+pub mod fibonacci;
+pub mod fifthroot;
+pub mod countvowels;
+pub mod combinations;
+pub mod circle;
+pub mod piggybank;
+pub mod palindrome;
+pub mod grades;
